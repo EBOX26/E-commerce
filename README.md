@@ -26,3 +26,8 @@ Mock-Up
 github repo:  https://github.com/EBOX26/E-commerce.git
 
 Screenshots: 
+![image](https://github.com/EBOX26/E-commerce/assets/139289311/f316cdec-a837-4ad5-91ee-1db901f571fa)
+![image](https://github.com/EBOX26/E-commerce/assets/139289311/a06a5d16-d0dc-42d6-84cd-b5025d338ec7)
+![image](https://github.com/EBOX26/E-commerce/assets/139289311/8476ef0e-0d74-43ec-858b-3154995346d5)
+
+
